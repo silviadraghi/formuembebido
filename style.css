@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+   background-color: rgb(71, 69, 69); 
+}
+.fondocard{
+  margin-top: 50px;
+  margin-left: 400px;
+  width: 294px;
+  height: 352px;
+  border: 2px solid black;
+  color: black ;
+  font: bold 15px;
+}
+.paraform{
+    background-color: beige;
+    margin-top: 50px;
+    margin-left: 300px;
+    width: 600px;
+    height: 400px;
+    border: black solid 2px;
+}
+.paracampo{
+    margin-top: 10px;
+    background-color: rgb(231, 228, 228);
+    width: 500px;
+
+    margin-left: 50px;
+}
+.paraboton{
+    margin-top: 30px;
+    background-color: rgb(14, 14, 14);
+    border: solid 2px brown;
+    width: 80px;
+    height:40px;
+    margin-left: 150px;
+    color: white;
+}
